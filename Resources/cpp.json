@@ -1,0 +1,61 @@
+{
+	"syntax": {
+		"prefix": "cs1",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"int main(){",
+			"    ios::sync_with_stdio(false);",
+			"    cin.tie(nullptr);",
+			"    $0",
+			"    return 0;",
+			"}"
+		],
+		"description": "syntax"
+	},
+	"syntax1": {
+		"prefix": "cs2",
+		"body": [
+			"#include<bits/stdc++.h>",
+			"using namespace std;",
+			"void solve(){",
+			"    $0",
+			"}",
+			"int main(){",
+			"    ios::sync_with_stdio(false);",
+			"    cin.tie(nullptr);",
+			"    int test_case;",
+			"    while(test_case--){",
+			"        solve();",
+			"    }",
+			"    return 0;",
+			"}"
+		],
+		"description": "syntax1"
+	},
+	"for": {
+		"prefix": "f1",
+		"body": [
+			"for(int i = 0; i < n; i++){",
+			"    $0",
+			"}"
+		],
+		"description": "for"
+	},
+	"for1": {
+		"prefix": "f2",
+		"body": [
+			"for(int j = 0; j < m; j++){",
+			"    $0",
+			"}"
+		],
+		"description": "for"
+	},
+	"for_auto": {
+		"prefix": "af",
+		"body": [
+			"for(auto& x : a) cin >> x;"
+		],
+		"description": "for_auto"
+	}
+}
