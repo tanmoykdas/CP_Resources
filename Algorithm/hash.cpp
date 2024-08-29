@@ -5,7 +5,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     vector<int> v(1e7, 0);
-    // counting digit
+    // counting digit.
     int n;
     cin >> n;
     vector<int> a(n);
