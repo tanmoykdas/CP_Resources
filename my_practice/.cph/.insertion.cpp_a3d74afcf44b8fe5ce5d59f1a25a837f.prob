@@ -1,0 +1,1 @@
+{"name":"Local: insertion","url":"c:\\Users\\tnmy4\\Desktop\\my_practice\\insertion.cpp","tests":[{"id":1730695200444,"input":"3\n1 1\n2 2 \n33 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\tnmy4\\Desktop\\my_practice\\insertion.cpp","group":"local","local":true}

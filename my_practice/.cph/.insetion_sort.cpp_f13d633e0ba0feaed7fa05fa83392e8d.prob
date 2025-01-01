@@ -1,0 +1,1 @@
+{"name":"Local: insetion_sort","url":"/mnt/827052D67052D111/my_practice/insetion_sort.cpp","tests":[{"id":1728577524023,"input":"5\n1 5 5 3 2","output":""},{"id":1728578237601,"input":"6\n5 4 10 1 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/827052D67052D111/my_practice/insetion_sort.cpp","group":"local","local":true}
