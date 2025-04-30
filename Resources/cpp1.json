@@ -1,0 +1,50 @@
+{
+	"syntax1": {
+		"prefix": "cs1",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"  ios::sync_with_stdio(false);",
+			"  cin.tie(nullptr);",
+			"  $1",
+			"  return 0;",
+			"}"
+		],
+		"description": "syntax1"
+	},
+	"syntax2": {
+		"prefix": "cs2",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"  ios::sync_with_stdio(false);",
+			"  cin.tie(nullptr);",
+			"  int t;",
+			"  cin >> t;",
+			"  while (t--) {",
+			"    $1",
+			"  }",
+			"  return 0;",
+			"}"
+		],
+		"description": "syntax2"
+	},
+	"for_each": {
+		"prefix": "af",
+		"body": [
+			"for (auto& x : a) cin >> x;"
+		],
+		"description": "for_each"
+	},
+	"newline": {
+		"prefix": "nl",
+		"body": [
+			"cout << \"\\n\";"
+		],
+		"description": "newline"
+	}
+}
